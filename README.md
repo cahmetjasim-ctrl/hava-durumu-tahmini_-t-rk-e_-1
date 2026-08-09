@@ -1,2 +1,2 @@
-# hava durumu tahminini sistemi ingilizce -1
+# hava durumu tahminini sistemi türkçe - 1
 bu pythonda ilk projjem 
